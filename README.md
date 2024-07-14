@@ -4,3 +4,4 @@
 repo ini berisi latihan coding mandiri
 * web sederhana
 * ditekankan pada framework laravel
+* repo ini untuk kebutuhan explore mini projek
